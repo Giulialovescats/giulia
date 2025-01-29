@@ -1,18 +1,15 @@
 .img1 {
     width: 600px;
 }
-
 .img2 {
     width: 800px;
 }
-
 .img3 {
-    width: 300px;
+    width: 700px;
 }
-
 body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: yellow;
-    color: purple;
+    background-color: rgb(217, 221, 160);
+    color: rgb(47, 61, 255);
 }
