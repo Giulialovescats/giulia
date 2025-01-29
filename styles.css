@@ -1,5 +1,11 @@
-img {
-    width: 600 px;
+.img1 {
+    width: 600px;
+}
+.img2 {
+    width: 800px;
+}
+.img3 {
+    width: 700px;
 }
 body {
     text-align: center;
