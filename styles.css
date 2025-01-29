@@ -1,15 +1,16 @@
 .img1 {
-    width: 600px;
+    width: 600 px;
 }
 .img2 {
-    width: 800px;
+    width: 800 px;
 }
 .img3 {
-    width: 700px;
+    width: 700 px;
 }
+
 body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color:plum;
-    color:greenyellow;
+    background-color: plum;
+    color: blue;
 }
