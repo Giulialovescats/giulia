@@ -6,12 +6,10 @@
 }
 .img3 {
     width: 700 px;
-    lenght: 300 px;
 }
-
 body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: plum;
-    color: blue;
+    background-color: rgb (217, 221, 160);
+    color: rgb (47, 61, 255);
 }
