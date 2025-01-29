@@ -1,12 +1,18 @@
-.img1 {  width: 600 px;
+.img1 {
+    width: 600px;
 }
-.img2 { width: 800 px;
+
+.img2 {
+    width: 800px;
 }
-.img3 { width: 300 px;
+
+.img3 {
+    width: 300px;
 }
+
 body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: yellow ;
-    color: purple ;
+    background-color: yellow;
+    color: purple;
 }
